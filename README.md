@@ -1,2 +1,2 @@
 Welcome 
-I will be sharing my IOS devlopment journey here .
+I will be sharing my iOS devlopment journey here .
